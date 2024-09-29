@@ -1,0 +1,60 @@
+.layout {
+  display: grid;
+  height: 100svh;
+  grid-template-rows: auto 1fr auto;
+  gap: 2rem;
+}
+
+.link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.product-name {
+  height: 2.5em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+
+.rating svg {
+  color: #f8e825;
+}
+
+.rating-text {
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding-left: 0.5rem;
+}
+
+.loader-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.register {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+table td,
+table th {
+  text-align: center;
+}
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.801);
+}
+
+.carousel-item img {
+  object-fit: cover;
+  object-position: center;
+  height: 50vh;
+  overflow: hidden;
+}

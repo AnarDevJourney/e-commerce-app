@@ -2,7 +2,7 @@
 
 ![ByteStore](/frontend/public/images/e-commerce-ss.png)
 
-This is full stack e-commerce project
+This is full stack e-commerce application
 
 You can view the project live here:
 [ByteStore](https://bytestore-cxk6.onrender.com)

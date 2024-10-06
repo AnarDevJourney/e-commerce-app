@@ -20,7 +20,7 @@ You can view the project live here:
 - Profile Updates: Users can edit their profile details.
 
 🛒 Product Management
-- Product Display: View all cabins with their photo, name, capacity, price, and current discount in a tabular format.
+- Product Display: View all products with their photo, name, rating, price, brand.
 - Add to Cart: Users can add and remove products from their shopping cart.
 
 💳 Order Management
